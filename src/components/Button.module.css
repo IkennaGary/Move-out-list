@@ -1,0 +1,17 @@
+._btn {
+  padding: 3px;
+  border: none;
+  background: transparent;
+  border: 1px solid rgb(202, 202, 202);
+  color: 999;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #555;
+  transition: 0.1s ease;
+}
+._btn:hover {
+  background: #999;
+  color: #fff;
+}

@@ -1,0 +1,23 @@
+/* td {
+  display: flex;
+  justify-content: flex-start;
+} */
+._adscc {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  gap: 10px;
+  padding-left: 20px;
+}
+._adsccImg img {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+@media (max-width: 991px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
